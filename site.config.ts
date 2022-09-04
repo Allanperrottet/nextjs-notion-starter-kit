@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: 'Cape Town Bucket List',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  author: 'Sarah & Allan Perrottet',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
